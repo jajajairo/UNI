@@ -1,3 +1,12 @@
+#============================
+#INTEGRANTES:
+#JAIRO GUILLEN
+#MOISES BELTRAN
+#MARIA BENAVIDES
+#REINALDO RUILOVA
+#JOE LEMA
+#============================
+
 #================================
 #   DISTRIBUCIONES: NORMAL, BERNOULLI, BINOMIAL
 #================================
